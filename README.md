@@ -37,7 +37,7 @@ Je suis **IDNoCode**, un designer web passionné, spécialisé dans la création
 
 ## 💬 Contact
 
-Contactez-moi via Instagram : [@idnocode]((https://www.instagram.com/idnocode/))
+Contactez-moi via Instagram : [@idnocode](https://www.instagram.com/idnocode/)
 
 Découvrez mon projet **FrenchWeb** en ligne :  
 [https://idnocode.github.io/frenchweb/](https://idnocode.github.io/frenchweb/)
